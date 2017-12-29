@@ -2,6 +2,8 @@
 
 A simple project demonstrating a pattern for decorating User Interface elements in a reusable, composable way using code or Interface Builder.
 
+![N|Solid](https://github.com/KudoBop/IBDecorators/blob/master/Overview.jpg)
+
 ### Usage ###
 
 * Create NSObject subclass
